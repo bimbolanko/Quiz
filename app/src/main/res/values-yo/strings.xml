@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="_1">Ení.</string>
+    <string name="_10">Èwá.</string>
+    <string name="_11_years">Odún Mókànlá.</string>
+    <string name="_12_years">Odún Méjìlá.</string>
+    <string name="_15_years">Odún Méèédógún.</string>
+    <string name="_17_years">Odún Métàdínlógún.</string>
+    <string name="_18_years">Odún Méjìdínlógún.</string>
+    <string name="_2">Èjì.</string>
+    <string name="_3">Èta.</string>
+    <string name="_4">Èrin.</string>
+    <string name="_5">Àrún.</string>
+    <string name="_6">Èfà.</string>
+    <string name="_7">Èje.</string>
+    <string name="_8">Èjo.</string>
+    <string name="_9">Èsán.</string>
+    <string name="_9_years">Odún Mésàán.</string>
+    <string name="_make_you_gay">Ti okùnrin bá f\'ipá bá okùnrin lò (tàbí obìnrin), njè èyí túmò sípé géè ni ó?</string>
+    <string name="false_string">Béèkó.</string>
+    <string name="header_string">Njè o mò nípa ìfipàbánilòpò bí? Ìdánwò ráñpé.</string>
+    <string name="it_depends">Bóyá.</string>
+    <string name="name_hint">Orúko.</string>
+    <string name="no_means_no">Rárá ni rárá.</string>
+    <string name="welcome_label">E káàbò.</string>
+    <string name="true_string">Béèni.</string>
+    <string name="submit">Fisowó.i</string>
+    <string name="victim_shaming_string">Ìdójú ti eni tí òrò kàn a máa fa dídé irú ègbin béè móra?</string>
+    <string name="legal_age_of_consent">Kíni ojó orí ótémilórùn ní ilè Nàìjíríà?</string>
+    <string name="is_excusable">Ìbánilòpò láì fowó si nínú ìgbeyàwó seé fojúfò?</string>
+    <string name="q1_string">Njé àìsòrò túmò sí mo faramóo?</string>
+    <string name="q2_string">Tí ènìyàn bá nsùn tàbí tí kò lè sòrò, njé a le gba ìfaramó \'ówó rè?</string>
+    <string name="q3_string">Ìfipá báni lòpò lè shelè nínú ìgbeyàwó?</string>
+    <string name="q4_string">Eni tí a lérí sí tàbí tí a dérù bà (kò dénúu rè) láti báni lòpò kò fara móo?</string>
+    <string name="q5_string">Nítorí ó ti fara mó ìbálòpò rí túmò sí pé ó ti fara móo títíláíláí</string>
+    <string name="q6_string">O kò lè mú ìfaramó ò re kúrò tí ìbálò bá ti n lo lówó.</string>
+    <string name="q7_string">Púpò nínú awón ohun ìsàlè yìí báamu: (wòó dáradára)</string>
+    <string name="rape_is_an_offence">Èsè ni ìfipábánilòpò?</string>
+    <string name="third_party_consent">A leè bá eni ti wón fé bálò fowóbsíi?</string>
+</resources>
